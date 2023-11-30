@@ -1,0 +1,4 @@
+﻿  war.cpp
+C:\Users\gjord\OneDrive\Documents\CSC 339\WarGame\WarGame\war.cpp(115,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gjord\OneDrive\Documents\CSC 339\WarGame\WarGame\war.cpp(128,22): warning C4018: '<': signed/unsigned mismatch
+  WarGame.vcxproj -> C:\Users\gjord\OneDrive\Documents\CSC 339\WarGame\Debug\WarGame.exe
